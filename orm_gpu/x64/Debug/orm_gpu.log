@@ -1,0 +1,72 @@
+﻿  orm_gpu.cpp
+  opencl.hpp: CL_HPP_TARGET_OPENCL_VERSION is not defined. It will default to 300 (OpenCL 3.0)
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1338,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1344,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1355,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1360,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1376,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1387,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1393,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1404,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1411,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1422,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1426,10): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1428,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1439,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1446,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1457,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1465,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1476,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1483,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1494,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1500,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1511,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1515,10): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+C:\Users\dymco\source\repos\orm_gpu\orm_gpu\AudioFile.h(1517,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "orm_gpu.cpp")
+  
+  orm_gpu.vcxproj -> C:\Users\dymco\source\repos\orm_gpu\x64\Debug\orm_gpu.exe
